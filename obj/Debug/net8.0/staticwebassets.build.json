@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "zg98o2kSy0ssYrq6tvjEw3s3cIeTZyCK3GXXWPmMaC8=",
+  "Source": "JobPortalWebsite",
+  "BasePath": "_content/JobPortalWebsite",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
